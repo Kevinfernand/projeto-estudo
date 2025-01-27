@@ -83,7 +83,7 @@ iframe{
   width: 95%;
   margin: 0px auto;
 }
-.div{
+aside{
   background-color:#8ad3a9;
   width: 95%;
   margin: 20px auto;
@@ -95,7 +95,7 @@ iframe{
   background-color:#4bb979;
   margin: 0px;
   padding: 10px 10px;
-   border-radius: 10px 10px 0px 0px;
+  border-radius: 10px 10px 0px 0px;
 }
 footer{
   margin: 0px;
